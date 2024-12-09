@@ -1,0 +1,9 @@
+# VS code
+.vs/
+.vscode/
+data/
+output/
+
+# SAS Enterprise Guide
+
+*.egp
